@@ -1,0 +1,9 @@
+Hello World
+
+This is my first time using the command Nano
+
+Its cute.
+
+What else should I say? 
+
+Using Github is a nice learning process!
